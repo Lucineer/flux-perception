@@ -2,5 +2,7 @@
 name = "flux-perception"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
 homepage = "https://github.com/Lucineer"
+description = "Confidence-weighted sensor fusion for autonomous agents — combine noisy inputs into coherent world models"
 repository = "https://github.com/Lucineer/flux-perception"
